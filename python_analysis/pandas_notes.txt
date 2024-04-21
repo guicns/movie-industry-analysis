@@ -1,0 +1,38 @@
+# How to import libraries
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+# How to create a DF from CSV
+df = pd.DataFrame(pd.read_csv("file path"))
+
+# Pandas Syntax Exploration
+https://pandas.pydata.org/docs/reference/api/
+
+Exploration
+df["column"] -> select a column
+df.columns -> shows columns names
+df.dtypes -> returns a Series with the data type of each column
+df.info -> concise summary of a DataFrame
+df.shape -> dimensionality of the DataFrame
+df.head -> return the first n rows (default is 5)
+df.tail -> return the last n rows (default is 5)
+
+Statistics
+df.corr -> compute pairwise correlation of columns
+df.count -> count non-NA cells for each column or row
+df.cov -> compute pairwise covariance of columns
+df.describe() -> generate descriptive statistics
+df.max -> return the maximum of the values 
+df.mean -> return the mean of the values 
+df.median -> return the median of the values 
+df.min -> return the minimum of the values
+df.mode -> get the mode(s) of each element
+df.sem -> return unbiased standard error
+df.skew -> return unbiased skew over requested axis
+df.std -> return sample standard deviation
+df.var -> return unbiased variance
+df.value_counts -> return a Series containing the frequency of each distinct row
+df.pivot -> return reshaped DataFrame organized by given index / column values
+df.plot -> make plots of Series or DataFrame // search other methods
