@@ -1,0 +1,27 @@
+# Anotações Variáveis
+Qualitativo
+name
+rating
+genre
+director
+writer
+star
+country
+company
+
+Quantitativo
+year (ano normal)
+score (0 a 10)
+votes (contagem)
+budget (dolares)
+gross (dolares)
+runtime (min)
+
+# Jupyter Notebooks Shortcuts
+Execute Cell and Focus Container - Ctrl + Enter
+Execute Notebook Cell and Select Bellow - Shift + Enter
+Add Cell Bellow and Focus Container - B
+
+# Wordcloud
+https://pypi.org/project/wordcloud/
+https://www.youtube.com/watch?v=9niTBDNp-l4
