@@ -1,6 +1,8 @@
 # Movie Industry Analysis
 Repositório dedicado à análise do conjunto de dados "Movie Industry", elaborado pelo usuário Daniel Grijalva.
-O conjunto de dados poder ser encontrado no [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+
+O conjunto de dados pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+
 O reposítorio do conjunto pode ser encontrado no [GitHub](https://github.com/danielgrijalva/movie-stats).
 
 As análises extraídas do conjunto de dados foram utilizadas para a elaboração das avaliações da disciplina NC104 - Introdução à Ciência dos Dados e à Informação, dos cursos de Administração e Administração Pública da Faculdade de Ciências Aplicadas da UNICAMP. O repositório foi criado e mantido pelo aluno Guilherme Ferreira.
